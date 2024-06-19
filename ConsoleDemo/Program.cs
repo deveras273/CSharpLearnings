@@ -11,7 +11,10 @@ namespace ConsoleDemo
     {
         static void Main(string[] args)
         {
-            
+            int a, b;
+            a = 4;
+            b = 7;
+            Console.WriteLine(a ^ b);
         }
     }
 }
