@@ -53,6 +53,7 @@
     <Compile Include="Leetcode\FindWordsContaining.cs" />
     <Compile Include="Leetcode\GetConcatenation.cs" />
     <Compile Include="Leetcode\MaximumWealth.cs" />
+    <Compile Include="Leetcode\ScoreOfString.cs" />
     <Compile Include="Leetcode\TwoSum.cs" />
     <Compile Include="Loops.cs" />
     <Compile Include="Program.cs" />
